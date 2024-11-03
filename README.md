@@ -59,6 +59,3 @@ npm run deploy:functions
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-- [List of acknowledgments, e.g., inspiration, code snippets, etc.]
